@@ -1,7 +1,12 @@
 export default function Home() {
   return (
-    <h1 className="text-9xl">
-      What will you ship next?
-    </h1>
+    <div>
+      <h1 className="text-9xl font-sans">
+        What will you next?
+      </h1>
+      <h1 className="text-9xl font-mono">
+        What will you next?
+      </h1>
+    </div>
   )
 }
